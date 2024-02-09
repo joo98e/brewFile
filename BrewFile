@@ -1,4 +1,3 @@
-# brew bundle
 
 brew install mas 
 brew install nvm
