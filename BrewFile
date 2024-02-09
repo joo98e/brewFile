@@ -1,1 +1,15 @@
+# brew bundle
+
+brew install mas 
+brew install nvm
+brew install git
+brew install openjdk@17
+brew install docker
 brew install graphviz
+
+brew install --cask iterm2
+brew install --cask docker
+brew install --cask jetbrains-toolbox
+brew install --cask brave-browser
+
+mas install 869223134
